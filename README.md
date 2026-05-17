@@ -1,149 +1,86 @@
-````md
+# <div align="center">Hello! I'm Ahmed Nasreldin Amer 👋</div> <div align="center">Nice to meet you 😊</div>
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2x1b2JrZWV4Y3ZwdTBwaGF4ZnQ5NjRrNnNwM3h4c2w0aDB4ZXkzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="60%" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/> <br><br>
 
-# Hi 👋 I'm Ahmed Nasreldin Amer
+### AI Engineer | Advanced AI Programmer | YouTube Content Creator
 
-### 🚀 Advanced AI Developer | 🎥 YouTube Content Creator | 💻 Full Stack Enthusiast
+Building smart systems, sharing practical AI knowledge, and turning ideas into real products.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Advanced+AI+Developer;YouTube+Content+Creator;Automation+Expert;Frontend+%26+Backend+Developer;Always+Learning+New+Things" />
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRnXsnEAB27FIskstBTrB5A)
+[![GitHub](https://img.shields.io/badge/GitHub-ahmednasrca--web-181717?style=flat&logo=github&logoColor=white)](https://github.com/ahmednasrca-web)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-nasreldin-amer/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Ahmednasr.ca@gmail.com)
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ahmednasrca-web&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-# 🧠 About Me
+## About Me
+
+- I am **Ahmed Nasreldin Amer**, an **advanced AI programmer** focused on building practical AI systems and intelligent automation.
+- I create **YouTube content** to simplify AI, programming, and modern development workflows.
+- I enjoy combining **software engineering, machine learning, LLMs, and content creation** into real-world impact.
+- My goal is to build useful products, share knowledge, and help more people use AI effectively.
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
 
 ```python
-class AhmedNasreldinAmer():
-
+class AhmedNasreldinAmer:
     def __init__(self):
-        self.name = "Ahmed Nasreldin Amer"
-        self.role = "Advanced AI Developer"
-        self.content_creator = "YouTube Creator"
-        self.language_spoken = ["Arabic", "English"]
-
-    def skills(self):
-        return [
-            "Artificial Intelligence",
-            "Automation",
-            "Python Development",
-            "Frontend Development",
-            "Backend Development",
-            "Content Creation",
-            "Prompt Engineering",
-            "AI Tools Integration"
+        self.role = [
+            "Advanced AI Programmer",
+            "AI Engineer",
+            "YouTube Content Creator"
         ]
 
-    def current_focus(self):
-        return [
-            "Building AI Systems",
-            "Automating Workflows",
-            "Creating Educational Content",
-            "Learning New Technologies"
-        ]
-````
-
----
-
-# ⚒️ Tech Stack
-
-### 👨‍💻 Programming & Development
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat\&logo=python\&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-black?style=flat\&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=flat\&logo=next.js)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat\&logo=node.js\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat\&logo=css3\&logoColor=white)
-
----
-
-# 🤖 AI Tools & Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat\&logo=openai)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat\&logo=openai)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat\&logo=n8n\&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D5DF6?style=flat)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat\&logo=microsoftpowerautomate)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat\&logo=zapier\&logoColor=white)
-
----
-
-# 🎨 Design & Content Creation
-
-![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=flat\&logo=adobephotoshop)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat\&logo=adobepremierepro)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat\&logo=adobeaftereffects)
-![Figma](https://img.shields.io/badge/Figma-black?style=flat\&logo=figma)
-
----
-
-# 📺 YouTube & Content
-
-🎥 I create content about:
-
-* Artificial Intelligence
-* Automation
-* Programming
-* Productivity
-* AI Tools
-* Tech Tutorials
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🌍 Connect With Me
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](YOUR_YOUTUBE_LINK)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_LINK)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](YOUR_INSTAGRAM_LINK)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook)](YOUR_FACEBOOK_LINK)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "AI is not the future anymore... it's the present."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A00FF&height=120&section=footer"/>
-
-</div>
-```
+        self.skills = {
+            "ai_ml": [
+                "Machine Learning",
+                "Deep Learning",
+                "LLMs",
+                "Prompt Engineering",
+                "AI Automation"
+            ],
+            "languages": [
+                "Python",
+                "C++",
+                "JavaScript",
+                "TypeScript"
+            ],
+            "tools": [
+                "OpenAI API",
+                "PyTorch",
+                "TensorFlow",
+                "Hugging Face",
+                "Docker",
+                "Git"
+            ],
+            "content": [
+                "YouTube Content Creation",
+                "Educational AI Videos",
+                "Technical Storytelling"
+            ]
+        }
